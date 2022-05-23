@@ -1,0 +1,14 @@
+{
+  "name": "bitcoin-price-checker",
+  "version": "1.0.0",
+  "description": "Simple weather app to practice calling apis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Omar Suriel",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
